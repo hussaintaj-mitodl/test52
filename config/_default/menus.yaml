@@ -1,19 +1,13 @@
 leftnav:
-- identifier: external--1632447086-1701941700823
-  name: page
-  params:
-    includeLicenseWarning: true
-  url: https://www.google.com
-  weight: 10
 - identifier: external--1632447086-1701941707736
   name: External Link non-ocw
   params:
     includeLicenseWarning: false
   url: https://www.google.com
-  weight: 20
-- identifier: external--1632447086-1701941710789
+  weight: 10
+- identifier: 69ee1ff5-5131-4bec-87ba-c6c71097c6bf
   name: External Link ocw
+  pageRef: /pages/page
   params:
     includeLicenseWarning: true
-  url: https://www.google.com
-  weight: 30
+  weight: 20
